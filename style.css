@@ -1,0 +1,17 @@
+.line{
+background-color: black;
+height: 5px;
+width: 200px;
+margin: auto;
+margin-bottom: 20px;
+}
+#app_slides p{
+    font-size: 20000000000px;
+}
+body{
+    text-align: center;
+    background:linear-gradient(green, yellow)
+}
+h1{
+    font-variant: small-caps;
+}
